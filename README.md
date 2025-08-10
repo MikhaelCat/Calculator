@@ -6,8 +6,8 @@
 
 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/username/Calculator.git
-cd Calculator
+  git clone https://github.com/username/Calculator.git
+  cd Calculator
 
 
 2. Создай виртуальное окружение и установи зависимости:
