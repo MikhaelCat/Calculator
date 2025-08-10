@@ -8,6 +8,8 @@
 ```bash
 git clone https://github.com/username/Calculator.git
 cd Calculator
+
+
 2. Создай виртуальное окружение и установи зависимости:
 ```python -m venv venv
   source venv/bin/activate  # Для Linux / Mac
